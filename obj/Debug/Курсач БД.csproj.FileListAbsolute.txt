@@ -1,0 +1,30 @@
+C:\VS\Курсач БД\Курсач БД\bin\Debug\x86\sqlite3.dll
+C:\VS\Курсач БД\Курсач БД\bin\Debug\x64\sqlite3.dll
+C:\VS\Курсач БД\Курсач БД\bin\Debug\Курсач БД.exe.config
+C:\VS\Курсач БД\Курсач БД\bin\Debug\Курсач БД.exe
+C:\VS\Курсач БД\Курсач БД\bin\Debug\Курсач БД.pdb
+C:\VS\Курсач БД\Курсач БД\bin\Debug\EntityFramework.dll
+C:\VS\Курсач БД\Курсач БД\bin\Debug\EntityFramework.SqlServer.dll
+C:\VS\Курсач БД\Курсач БД\bin\Debug\System.Buffers.dll
+C:\VS\Курсач БД\Курсач БД\bin\Debug\System.Data.SQLite.dll
+C:\VS\Курсач БД\Курсач БД\bin\Debug\System.Data.SQLite.EF6.dll
+C:\VS\Курсач БД\Курсач БД\bin\Debug\System.Data.SQLite.Linq.dll
+C:\VS\Курсач БД\Курсач БД\bin\Debug\System.Memory.dll
+C:\VS\Курсач БД\Курсач БД\bin\Debug\System.Numerics.Vectors.dll
+C:\VS\Курсач БД\Курсач БД\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\VS\Курсач БД\Курсач БД\bin\Debug\EntityFramework.xml
+C:\VS\Курсач БД\Курсач БД\bin\Debug\EntityFramework.SqlServer.xml
+C:\VS\Курсач БД\Курсач БД\bin\Debug\System.Buffers.xml
+C:\VS\Курсач БД\Курсач БД\bin\Debug\System.Data.SQLite.xml
+C:\VS\Курсач БД\Курсач БД\bin\Debug\System.Memory.xml
+C:\VS\Курсач БД\Курсач БД\bin\Debug\System.Numerics.Vectors.xml
+C:\VS\Курсач БД\Курсач БД\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\VS\Курсач БД\Курсач БД\obj\Debug\Курсач БД.csproj.AssemblyReference.cache
+C:\VS\Курсач БД\Курсач БД\obj\Debug\Курсач_БД.Form1.resources
+C:\VS\Курсач БД\Курсач БД\obj\Debug\Курсач_БД.Properties.Resources.resources
+C:\VS\Курсач БД\Курсач БД\obj\Debug\Курсач БД.csproj.GenerateResource.cache
+C:\VS\Курсач БД\Курсач БД\obj\Debug\Курсач БД.csproj.CoreCompileInputs.cache
+C:\VS\Курсач БД\Курсач БД\obj\Debug\Курсач БД.csproj.CopyComplete
+C:\VS\Курсач БД\Курсач БД\obj\Debug\Курсач БД.exe
+C:\VS\Курсач БД\Курсач БД\obj\Debug\Курсач БД.pdb
+C:\VS\Курсач БД\Курсач БД\obj\Debug\Курсач_БД.Form2.resources
